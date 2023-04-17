@@ -1,0 +1,43 @@
+Requirement to run this code successfully 
+make sure you have the following installed or follow the following instructions to install these packages
+--> Chrome or download via this link --> https://www.google.com/chrome/
+--> ChromeDriver download according to your chrome version which your can check in your chrome setting --> https://chromedriver.chromium.org/downloads
+
+--> Python install the following in your Window commandpromt or terminal for MaxOS
+Pip 
+
+If you are using a Linux or macOS system, you can install pip using the terminal by following these steps:
+
+    1. Open the terminal on your system.
+    2. Check if pip is already installed by running the command pip --version. 
+    3. If it's already installed, you will see the version number printed to the terminal.
+If pip is not installed, run the command sudo easy_install pip. This will install pip on your system.
+If you are using a Windows system, you can install pip using the command prompt by following these steps:
+    1. Open the command prompt on your system.
+    2. Check if pip is already installed by running the command pip --version. If it's already installed, you will see the version number printed to the terminal.
+    3. If pip is not installed, download the get-pip.py file from the official website: https://bootstrap.pypa.io/get-pip.py
+    4. Once downloaded, navigate to the directory where you downloaded the file using the command prompt.
+    5. Run the command python get-pip.py. This will install pip on your system.
+    After installing pip, you can use it to install Python packages and libraries by running the command pip install <package-name> in the terminal or command prompt
+Now you can run the following command in your CommandPrompt, $bash for Windows  or terminal for MacOS to install 
+Selnium, Pandas, and CSV.
+Selenium  --> pip install selenium
+pandas  --> pip install pandas
+csv  --> pip install csv
+
+now open the downloaded folder in your cmd by opening 
+    Here's how you can open a folder in your terminal or command prompt on Windows and macOS:
+
+Windows:
+
+Open File Explorer and navigate to the folder you want to open in the command prompt.
+Click on the address bar and type "cmd" and click on the enter key on your keyboad to open the command prompt in the current directory. Alternatively, you can hold down the Shift key and right-click on the folder, then select "Open command window here" or "Open PowerShell window here".
+macOS:
+
+Open Finder and navigate to the folder you want to open in the terminal.
+Right-click on the folder and select "Services" > "New Terminal at Folder" from the contextual menu. This will open a new terminal window at the selected folder.
+Alternatively, you can open the Terminal app on macOS and use the "cd" command to navigate to the desired folder. For example, if you want to navigate to a folder named "Documents" in your home directory, you can type "cd ~/Documents" in the terminal.
+
+------> in your terminal or command prompt first  type python rust-tutorial.py
+ in the terminal or commandprompt
+-----> Once it is successful Type  python download.py
