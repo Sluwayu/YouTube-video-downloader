@@ -41,3 +41,4 @@ Alternatively, you can open the Terminal app on macOS and use the "cd" command t
 ------> in your terminal or command prompt first  type python rust-tutorial.py
  in the terminal or commandprompt
 -----> Once it is successful Type  python download.py
+ make sure delete csv after download is complete to avoid argument
